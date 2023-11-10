@@ -1,5 +1,5 @@
 {
-  "enabled": "on",
+  "enabled": "off",
   "ip": "8.8.8.8",
   "hostname": "gooogle.com",
   "city": "Los Angeles",
